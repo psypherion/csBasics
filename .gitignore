@@ -6,3 +6,4 @@ mojo/.magic
 mojo/magic.lock
 mojo/mojoproject.toml
 venv/
+c/executables
