@@ -5,5 +5,9 @@ mojo/*.egg-info
 mojo/.magic
 mojo/magic.lock
 mojo/mojoproject.toml
+# Python environments
 venv/
+# C executable
 c/executables
+# Rust executable
+rust/executables
