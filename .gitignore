@@ -1,0 +1,8 @@
+# pixi environments
+mojo/.pixi
+mojo/*.egg-info
+# magic environments
+mojo/.magic
+mojo/magic.lock
+mojo/mojoproject.toml
+venv/
