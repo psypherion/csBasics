@@ -5,7 +5,7 @@ Linear Search algo Implementation :
 """
 
 
-fn linear_search(arr: SIMD[DType.int8, 8], n: Int, key: Int) -> Int:
+fn linear_search(arr: SIMD[DType.int8, 8], n: Int8, key: Int8) -> Int8:
     for i in range(n):
         if arr[i] == key:
             return i
